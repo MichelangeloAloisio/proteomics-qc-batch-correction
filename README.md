@@ -57,5 +57,4 @@ This pipeline focuses on **data preprocessing** and **does not include different
 
 ---
 
-## Repository Structure
 
